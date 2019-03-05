@@ -1,0 +1,6 @@
+c:\users\rene__000\documents\visual studio 2017\Projects\Math400Hw1\Math400Hw1\bin\Debug\Math400Hw1.exe.config
+c:\users\rene__000\documents\visual studio 2017\Projects\Math400Hw1\Math400Hw1\bin\Debug\Math400Hw1.exe
+c:\users\rene__000\documents\visual studio 2017\Projects\Math400Hw1\Math400Hw1\bin\Debug\Math400Hw1.pdb
+c:\users\rene__000\documents\visual studio 2017\Projects\Math400Hw1\Math400Hw1\obj\Debug\Math400Hw1.csprojResolveAssemblyReference.cache
+c:\users\rene__000\documents\visual studio 2017\Projects\Math400Hw1\Math400Hw1\obj\Debug\Math400Hw1.exe
+c:\users\rene__000\documents\visual studio 2017\Projects\Math400Hw1\Math400Hw1\obj\Debug\Math400Hw1.pdb
